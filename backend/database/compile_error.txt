@@ -1,0 +1,5 @@
+In file included from db_manager.cpp:6:0:
+db_manager.h:12:21: fatal error: sqlite3.h: No such file or directory
+ #include <sqlite3.h>
+                     ^
+compilation terminated.
