@@ -1,7 +1,4 @@
-/**
- * @file db_manager.cpp
- * @brief Implementation of Database Manager
- */
+
 
 #include "db_manager.h"
 #include <iostream>
