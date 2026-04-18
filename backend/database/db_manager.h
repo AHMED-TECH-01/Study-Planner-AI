@@ -1,10 +1,3 @@
-/**
- * @file db_manager.h
- * @brief Database Manager - Singleton class for SQLite database operations
- *
- * This class handles all database connections and queries using SQLite3.
- * Implements singleton pattern to ensure only one database connection exists.
- */
 
 #ifndef DB_MANAGER_H
 #define DB_MANAGER_H
