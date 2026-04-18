@@ -1,9 +1,3 @@
-/**
- * @file server.cpp
- * @brief Main server implementation using Crow framework
- *
- * This file sets up the REST API server with all endpoints.
- */
 
 #include <iostream>
 #include <string>
